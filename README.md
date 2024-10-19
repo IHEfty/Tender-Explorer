@@ -1,6 +1,6 @@
 # Tender Explorer
 
-**Tender Explorer** is a graphical file browser built using the **Tender** programming language. It provides a simple, intuitive interface for navigating and exploring the file system. The explorer displays directories and files with appropriate icons, allows users to scroll through contents, and click to open folders—all within a resizable window.
+**Tender Explorer** is a graphical file browser built using the [**Tender**](https://github.com/2dprototype/tender). It provides a simple, intuitive interface for navigating and exploring the file system. The explorer displays directories and files with appropriate icons, allows users to scroll through contents, and click to open folders—all within a resizable window.
 
 ## **Features**
 
