@@ -86,6 +86,14 @@ Once **Tender Explorer** is running, you can perform the following actions:
 
 You can customize the look and feel of **Tender Explorer** by modifying the icon images (`res/file.svg.png` and `res/folder.svg.png`) or adjusting the canvas drawing logic in the `draw()` function. The icons are drawn dynamically, and you can change colors or font styles in the code.
 
+## **Explore More**
+
+To explore more **Tender** projects and get access to additional code examples, visit the following repository:
+
+[1000+ Codes in Tender](https://github.com/IHEfty/1000-Codes-in-Tender/)
+
+This repository contains a rich collection of Tender-based code samples, ranging from simple applications to complex utilities, allowing you to enhance your understanding of **Tender** and its capabilities.
+
 ## **License**
 This project is open-source and licensed under the MIT License. You are free to use, modify, and distribute it in your own projects.
 For more details, see the [LICENSE](LICENSE) file.
