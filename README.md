@@ -14,7 +14,7 @@
 
 Below is a preview of **Tender Explorer** in action:
 
-![Tender Explorer Preview](res/tender_explorer_preview.png)
+![Tender Explorer Preview](res/preview.png)
 
 The interface displays folder and file icons, a scrollbar for easy navigation, and adjusts based on window size for a responsive experience.
 
@@ -43,13 +43,8 @@ Alternatively, you can download precompiled binaries from the [Tender Releases p
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/tender-explorer.git
-```
-
-Navigate into the project directory:
-
-```bash
-cd tender-explorer
+git https://github.com/IHEfty/Tender-Explorer.git
+cd Tender-Explorer
 ```
 
 ### **4. Running Tender Explorer**
@@ -57,7 +52,7 @@ cd tender-explorer
 To start **Tender Explorer**, run the following command:
 
 ```bash
-tender explorer.td
+tender main.td
 ```
 
 A window will open, displaying the files and directories in your current working directory. You can use the keyboard and mouse to scroll, navigate into folders, and interact with the UI.
