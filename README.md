@@ -2,14 +2,6 @@
 
 **Tender Explorer** is a graphical file browser built using the [**Tender**](https://github.com/2dprototype/tender). It provides a simple, intuitive interface for navigating and exploring the file system. The explorer displays directories and files with appropriate icons, allows users to scroll through contents, and click to open folders—all within a resizable window.
 
-## **Features**
-
-- **Interactive File Navigation**: Browse directories and view files with folder and file icons.
-- **Scrollable Interface**: Use your keyboard or mouse to scroll through long lists of files.
-- **Resizable Window**: The UI adjusts dynamically based on the window size.
-- **Directory Navigation**: Click on directories to explore deeper into the file structure, and use shortcuts to return to the parent folder.
-- **Customizable Icons**: Supports custom icons for files and folders (included by default in the `res` folder).
-
 ## **Preview**
 
 Below is a preview of **Tender Explorer** in action:
@@ -17,6 +9,14 @@ Below is a preview of **Tender Explorer** in action:
 ![Tender Explorer Preview](res/preview.png)
 
 The interface displays folder and file icons, a scrollbar for easy navigation, and adjusts based on window size for a responsive experience.
+
+## **Features**
+
+- **Interactive File Navigation**: Browse directories and view files with folder and file icons.
+- **Scrollable Interface**: Use your keyboard or mouse to scroll through long lists of files.
+- **Resizable Window**: The UI adjusts dynamically based on the window size.
+- **Directory Navigation**: Click on directories to explore deeper into the file structure, and use shortcuts to return to the parent folder.
+- **Customizable Icons**: Supports custom icons for files and folders (included by default in the `res` folder).
 
 ## **Getting Started**
 
